@@ -1,7 +1,7 @@
 from customtkinter import *
 import joblib
 
-model = joblib.load('build/models/spam_detector_model.pkl')
+model = joblib.load('models/spam_detector_model.pkl')
 
 bg = "#e8e8e8"
 txt_clr  = "#000000"
