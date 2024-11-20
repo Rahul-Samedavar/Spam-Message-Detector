@@ -1,0 +1,5 @@
+numpy>=1.26.3
+joblib>=1.4.2
+scikit-learn>=1.5.1
+customtkinter>=5.2.2
+pandas>=2.2.0
