@@ -12,7 +12,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spam-mail-detector.git
+   git clone https://github.com/Rahul-Samedavar/Spam-Message-Detector.git
    cd Spam-Message-Detector
    ```
 2. Install the required dependencies:
